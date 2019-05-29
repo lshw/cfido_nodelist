@@ -1,0 +1,30 @@
+--- NODELIST.149	1998-05-29 18:27:00.000000000 +0800
++++ NODELIST.156	1998-06-06 05:03:00.000000000 +0800
+@@ -1,4 +1,4 @@
+-;A Zone Nodelist for Friday, May 29, 1998 -- Day number 149 : 17361
++;A Zone Nodelist for Friday, June 5, 1998 -- Day number 156 : 12312
+ ;A
+ ;S A listing of all the systems within CFidonet
+ ;S
+@@ -175,10 +175,10 @@
+ Pvt,908,JinSui_BBS,Nanping,Xie_Ji6_Hua,-Unpublished-,9600,CM,XA,V32B,VFC,V34
+ ,918,Shaowu_hub,Shaowu,Chen_Jishh,86-599-633-1287,9600,CM,XA,V32B,VFC,V34
+ ;
+-Host,658,Guangxi_Net,Nanning,Tang_Kai_Bin,86-771-585-1315-8503,9600,TUI,XA,V32B,V32T,V42B,VFC,ZYX
++Host,658,Guangxi_Net,Nanning,Tang_Kai_Bin,86-771-585-1315-8501,9600,TUI,XA,V32B,V32T,V42B,VFC,ZYX
+ ,103,New_Space_BBS,Liuzhou,Flame_Ice,86-772-280-4058,9600,TQK,XA,V32T,V32B,V42B,V34
+ ,105,CityHunter_BBS,Liuzhou,Xu_Xiaohui,86-772-252-2811,9600,CM,XA,V32T,V32B,V42B,V34
+-,110,Meteor_BBS,Nanning,Tang_Kai_Bin,86-771-585-1315-8503,9600,TUI,XA,V32B,V42B,VFC
++,110,Meteor_BBS,Nanning,Tang_Kai_Bin,86-771-585-1315-8501,9600,TUI,XA,V32B,V42B,VFC
+ Hub,100,New_Star_BBS,Binyang,Qiu_Dabin,86-771-822-4004,9600,CM,XA,V32T,V32B,V42B,VFC
+ Pvt,101,Polar_Star_BBS,Guilin,Qin_Xu,-Unpublished-,9600,MO,XA,V32T,V32B,V42B
+ Down,102,New_Star_BBS,Binyang,Qiu_Dabin,86-771-822-4004,9600,CM,XA,V32T,V32B,V42B,VFC,ZYX
+@@ -251,7 +251,7 @@
+ ,4,Little_Ants_BBS,Wu_Han,Yin_Liang,86-27-8682-8231,9600,TtJ,V32B,V42B,V34
+ ,5,Red_Apple_BBS,Wu_Han,Wang_Su,86-27-8261-7315,9600,TWH,V32B,V42B,V34
+ ,6,Sunrise_BBS,Wu_Han,Zeng_Ming,86-27-8262-4760,9600,TTH,V32B,V42B,V34
+-,201,Blue_Star_BBS,Sha_Shi,Zuo_Shibin,86-716-823-6749,9600,TTH,V32,V32B,V42B
++Hold,201,Blue_Star_BBS,Sha_Shi,Zuo_Shibin,86-716-823-6749,9600,TTH,V32,V32B,V42B
+ ,300,Bull_BBS,Huang_Shi,Bull_Chen,86-714-651-7545,9600,CM,V32,V32B,V42B,VFC
+ ,400,XianFeng_BBS,Kaili_Guizhou,Ai_Ze_Yuan,86-855-823-1214,9600,CM,V32,V32B,V42B
+ Pvt,1000,Wuhan_Internet_Club,Wu_Han,James_Qi,-Unpublished-,9600,CM,V32B,V42B

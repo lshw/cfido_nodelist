@@ -1,0 +1,42 @@
+--- NODELIST.023	1998-01-23 10:25:40.000000000 +0800
++++ NODELIST.030	1998-01-30 00:00:00.000000000 +0800
+@@ -1,4 +1,4 @@
+-;A Zone Nodelist for Friday, January 23, 1998 -- Day number 023 : 47149
++;A Zone Nodelist for Friday, January 30, 1998 -- Day number 030 : 49431
+ ;A
+ ;S A listing of all the systems within CFidonet
+ ;S
+@@ -149,9 +149,8 @@
+ ;
+ Host,657,Fujian_Net,Jianyang,Moon_Xiao,86-599-583-2832,9600,CM,XA,V32B,H16,V32T
+ Hub,900,Fujian_Hub,Jianyang,Moon_Xiao,86-599-583-2832,9600,MO,XA,V32B,VFC,V34
+-,101,NewCursor!_BBS,Fuzhou,Simon_Lin,86-591-756-5376,9600,CM,XA,V32B,V32T,V42B
++Hold,101,NewCursor!_BBS,Fuzhou,Simon_Lin,86-591-756-5376,9600,CM,XA,V32B,V32T,V42B
+ ,102,Blue_Dream_BBS,Fuzhou,Lin_Zhe,86-591-333-4689,9600,CM,XA,V32B,V32T,V42B,v34
+-Hold,201,NightSweet_BBS,Xiamen,Zhou_Zhengku,86-592-513-5098,9600,CM,XA,V32B,V42B,V34
+ Pvt,501,Houhei_Jiao_BBS,Quanzhou,Huang_Ren,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+ Pvt,701,EliteStudio_BBS,Zhangping,Hu_jie,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+ ,901,StarStudio_BBS,Jianyang,Moon_Xiao,86-599-583-2832,9600,CM,XA,V32B,VFC,V34
+@@ -206,7 +205,7 @@
+ ,30,Federal_Software_BBS,Xi'an,Zhou_Xiaojun,86-29-4280164,9600,XA,V32B,V42B,V34,H16
+ ,40,Sunrise_bbs,Xi'an,K_Dino,86-29-2510383,9600,CM,XA,V32B,V42B,V34,H16
+ ;
+-Host,662,HeNan_Net,Zheng_Zhou,Xiaoyang_Liu,86-371-571-3852,9600,CM,V32b,V42b,V34
++Host,662,HeNan_Net,Zheng_Zhou,Xiaoyang_Liu,86-371-571-3852,9600,XA,TUH,V32b,V42b,V34
+ Hub,100,HenanHub_100,Zheng_Zhou,Li_Zhiming,86-371-572-4264,9600,CM,V32b,V42b,V34
+ ,1,BOC_BBS,Zheng_Zhou,Li_Zhiming,86-371-572-4264,9600,CM,V32b,V42b,V34
+ ,11,SDXF_BBS,Zheng_Zhoi,Jack_Liu,86-371-394-1100,9600,CM,V32B,V42B,V34
+@@ -216,6 +215,7 @@
+ ,25,BlueSky_BBS,Zhengzhou,Limin_Wang,86-371-635-1372,9600,Tth,XA,V32B,V42B,V34
+ Hub,1000,ZhengZhouHub_1000,Zheng_Zhou,Danny_Chou,86-371-5732915,9600,CM,V32b,V42b,V34
+ ,30,Dragon_BBS,NanYang,Ma_YongBo,86-377-6223102,9600,CM,V32B,V42B,V34
++,40,Good_Friends_BBS,RuYAng,Ma_Ming_jian,86-379-8214417,9600,CM,V32B,V42B,V34
+ ,51,ThornBird_Bird,GuiZhou_GuiYang,Helian_Yufeng,86-851-683-2820,9600,CM,V32B,V42B,V34
+ ;
+ Host,663,Hubei_Net,Huang_Shi,Bull_Chen,86-714-651-7545,9600,CM,V32,V32B,V42B
+@@ -473,4 +473,3 @@
+ ;S  |   e  |0430|  |   j  |0930|  |   o  |1430|  |   t  |1930|  |      |    |
+ ;S  +------+----+  +------+----+  +------+----+  +------+----+  +------+----+
+ ;S
+-
+\ 文件尾没有 newline 字符

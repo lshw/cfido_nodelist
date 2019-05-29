@@ -1,0 +1,74 @@
+--- NODELIST.051	1998-02-20 09:14:06.000000000 +0800
++++ NODELIST.058	1998-02-27 10:59:04.000000000 +0800
+@@ -1,4 +1,4 @@
+-;A Zone Nodelist for Friday, February 20, 1998 -- Day number 051 : 11446
++;A Zone Nodelist for Friday, February 27, 1998 -- Day number 058 : 05071
+ ;A
+ ;S A listing of all the systems within CFidonet
+ ;S
+@@ -161,7 +161,7 @@
+ Hold,101,NewCursor!_BBS,Fuzhou,Simon_Lin,86-591-756-5376,9600,CM,XA,V32B,V32T,V42B
+ ,102,Blue_Dream_BBS,Fuzhou,Lin_Zhe,86-591-333-4689,9600,CM,XA,V32B,V32T,V42B,v34
+ Pvt,501,Houhei_Jiao_BBS,Quanzhou,Huang_Ren,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+-Pvt,701,EliteStudio_BBS,Zhangping,Hu_jie,-Unpublished-,9600,CM,XA,V32B,V42B,V34
++,701,EliteStudio_BBS,Zhangping,Hu_jie,86-597-752-1998,9600,CM,XA,V32B,V42B,V34
+ ,901,StarStudio_BBS,Jianyang,Moon_Xiao,86-599-583-2832,9600,CM,XA,V32B,VFC,V34
+ Pvt,908,JinSui_BBS,Nanping,Xie_Ji6_Hua,-Unpublished-,9600,CM,XA,V32B,VFC,V34
+ ,918,Shaowu_hub,Shaowu,Chen_Jishh,86-599-633-1287,9600,CM,XA,V32B,VFC,V34
+@@ -186,25 +186,26 @@
+ ;
+ Host,660,ZheJiang_Net,Ningbo,Lou_Jian,86-574-6886524,9600,MO,XA,V32B,V42B,V34
+ ,1,Gloaming_Little_Station,Ningbo,Lou_Jian,86-574-6886524,9600,CM,XA,V34,V32B,V42B
+-,2,WinZen_BBS,Zhenhai,Xu_Yongjiu,86-574-6277352,9600,CM,XA,TXH,V32B,V42B,V34
+-,8,Perihelion,Zhenhai,Hu_Xiaodong,86-574-6265735,9600,XM,TVG,V32B,V42B,V34
++,2,WinZen_BBS,Zhenhai,Xu_Yongjiu,86-574-6277352,9600,XA,TXH,V32B,V42B,V34
++,8,Perihelion,Zhenhai,Hu_Xiaodong,86-574-6265735,9600,XA,TVG,V32B,V42B,V34
+ ,9,Little_Fox_BBS,Ningbo,Yang_Zhen,86-574-7119192,9600,CM,XA,V32B,V42B,V34,V34+
+-Hub,100,Ver_Dure_BBS,Changshan,Xu_Bin,86-570-5022013,9600,CM,XA,TVH,V32B,V42B,V34
+-,101,Mario's_World,Hangzhou,Herry_Li,86-571-7960553,9600,CM,XA,TOV,V32B,V42B,V34
++Hub,100,Ver_Dure_BBS,Changshan,Xu_Bin,86-570-5022013,9600,XA,TVH,V32B,V42B,V34
++,101,Mario's_World,Hangzhou,Herry_Li,86-571-7960553,9600,XA,TOV,V32B,V42B,V34
+ ,102,West_Lake,Hangzhou,Liu_Xiao_Nan,86-571-5023616,9600,CM,XA,V32B,V42B,V34
+-,103,SONG_Capital,Hangzhou,Ruan_Yang,86-571-8823823,9600,CM,XA,TVH,V32B,V42B,V34
+-,104,Orange_Wind_Flying_Leaves,Hangzhou,Van_Rick_Carter,86-571-7011348,9600,CM,XA,TVg,V32B,V42B,V34
++,103,SONG_Capital,Hangzhou,Ruan_Yang,86-571-8823823,9600,XA,TVH,V32B,V42B,V34
++,104,Orange_Wind_Flying_Leaves,Hangzhou,Van_Rick_Carter,86-571-7011348,9600,XA,TVg,V32B,V42B,V34
+ ,105,Star_BBS,Hangzhou,Zhang_Qi,86-571-6091975,9600,cm,xa,v32b,v42b
+ ,106,All_Star_BBS,Hangzhou,Liu_Qi,86-571-5113934,9600,cm,xa,v32b,v42b,V34,V34+
+ ,301,SkyWings_BBS,Jianxing,Jame_Huang,86-573-2081209,9600,CM,XA,V32B,V42B,V34,V34+
+ Pvt,302,Hope-Star_BBS,Jiashan,Wu_Jinming,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+ ,303,Glodtax,Tongxiang,Jin_Run_Dong,86-573-8036416,9600,CM,XA,V32B,V42B,V34
+-,501,Free_House,Shaoxing,Fu_Hui,86-575-5123270,9600,CM,XA,TrG,V32B,V42B,V34
++,501,Free_House,Shaoxing,Fu_Hui,86-575-5123270,9600,XA,TrG,V32B,V42B,V34
+ ,601,Cipher_One_Club,Jiaojiang,Kong_Minyun,86-576-8898890,9600,CM,XA,V32B,V42B,V34
++Pvt,602,New_Long_BBS,Wenling,QuanZhou,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+ ,701,CyberVoice,Yueqing,Largeo_Zheng,86-577-2537304,9600,XA,V32B,V34,V42B,TVG
+ ,702,Huan_Qiu_BBS,Wenzhou,Liu_Ci_Ming,86-577-8253806,9600,CM,XA,V32B,V42B,V34
+-,704,Fly_Dream_High_BBS,Wenzhou,Zhang_Yu,86-577-637-8267,9600,CM,XA,TUJ,V32B,V42B,V34
+-,1001,Ver_Dure_BBS,Changshan,Xu_Bin,86-570-5022013,9600,CM,XA,TVH,V32B,V42B,V34
++,704,Fly_Dream_High_BBS,Wenzhou,Zhang_Yu,86-577-637-8267,9600,XA,TUJ,V32B,V42B,V34
++,1001,Ver_Dure_BBS,Changshan,Xu_Bin,86-570-5022013,9600,XA,TVH,V32B,V42B,V34
+ ,9004,West_Mail_BBS,Gansu,Berid_Han,86-939-321-2074,9600,CM,XA,V32B,V42B
+ ;
+ Host,661,ShaanXi_Net,Xi'an,Li_Renchao,86-29-8633675,9600,CM,XA,V32B,V42B,V34,VFC,H16
+@@ -254,13 +255,14 @@
+ ,901,Victor_BBS,Yun_Cheng,Xie_Gengxin,86-359-202-6604,9600,CM,XA,V32B,V42B,V34
+ ,902,Montane_BBS,Zhong_Tiao_Shan,Zhang_Yanbin,86-359-603-5268,9600,XA,TWH,V32B,V42B,V34
+ ;
+-Host,665,ShanDong_Net,Wei_Fang,Liu_Shiwei,86-536-831-5176,9600,XA,TXH,MO,V32b,V42b,V34
+-Hub,100,ShanDong_Hub,Weifang,Liu_Shiwei,86-536-831-5176,9600,XA,TXH,V32B,V42B,VFC,V34
+-,1,WeiFang_BBS,Wei_Fang,Liu_Shiwei,86-536-831-5176,9600,XA,TXH,V32B,V42B,V34
+-,2,PeiLai_BBS,Yantai,Ye_Zi,86-535-625-7576,9600,XA,CM,V32B,V42B,VFC,V34
++Host,665,ShanDong_Net,WeiFang,Liu_Shiwei,86-536-831-5176,9600,XA,TXH,MO,V32b,V42b,V34
++Hub,100,ShanDong_Hub,Dongping,Yin_yanyong,86-538-282-9750,9600,XA,CM,V32B,V42B,VFC,V34
++,1,WeiFang_BBS,WeiFang,Liu_Shiwei,86-536-831-5176,9600,XA,TXH,MO,V32B,V42B,V34
++,2,PeiLai_BBS,YanTai,Ye_Zi,86-535-625-7576,9600,XA,CM,V32B,V42B,VFC,V34
+ ,3,Surpass_BBS,Wei_Fang,Liu_Shiwei,86-536-826-1665,9600,XA,CM,V32B,V42B,V34
+-,4,Sun's_Way_BBS,Pingdu,Frank_Sun,86-532-736-9193,9600,XA,CM,V32B,V42B,VFC,V34
+-,5,HuiGuang_BBS,Laixi,Hu_Ke_Hui,86-532-8468755,9600,XA,TUH,V32B,V42B,V34
++,4,Sun's_Way_BBS,PingDu,Frank_Sun,86-532-736-9193,9600,XA,CM,V32B,V42B,VFC,V34,NEC
++,5,HuiGuang_BBS,LaiXi,Ke_Hui,86-532-8468755,9600,XA,TUH,V32B,V42B,V34
++,6,ProLife_BBS,DongPing,Yin_Yanyong,86-538-282-9751,9600,XA,CM,V32B,VFC,V42B,V34
+ ;
+ Host,666,AnHui_Net,Chi_Zhou,Mastor_King,86-566-202-9168,9600,CM,MO,V32b,V42b,V34
+ Hub,100,AnHui_Hub,Chi_Zhou,Mastor_King,86-566-202-9168,9600,CM,MO,V32b,V42b,V34

@@ -1,0 +1,52 @@
+; 02-29-96
+; IMLIST.060
+;
+; Further Development, Inc.                                    Nodelist
+; -------------------------------------------------------------------
+; Copyright 1992-1995 Further Development, Inc. All rights reserved.
+;
+; This public nodelist is governed by Further Development, Inc and is
+; updated when needed. This nodelist uses only zone 211. The file
+; name is IMLIST.### where ### is the number of the day when the
+; nodelist where updated. You will always get the latest nodelist by
+; file requesting IMLIST (magic file name without extension) from the
+; address below. If you have any questions, please do not hesitate to
+; contact us.
+;
+;     ^             
+;     |                               Further Development, Inc.
+;     | Further                       P.O. Box 821864
+; ____|____________                   South Florida, FL 33082
+;(____|____________)                  USA
+;     |
+;     | Development, Inc .        Phone  1-954-436-2080 M-F 2pm-8pm EST
+; ____|______________________            1-500-675-0049 5pm-10pm PST
+;(____|______________________)      Fax  1-954-432-2223
+;     |                             BBS  1-954-436-1085
+;     |                         Fidonet  1:369/35         
+;                          InterMailnet  211:211/101
+;                                E-Mail  fdi@furtherdev.com
+;
+;                     See our Website at http://www.furtherdev.com
+;
+;
+; Net 211 segment, reserved for Further Development, Inc.
+; ----------------------------------------------------
+Zone,211,InterMailNet,South_Forida_USA,Further_Development_Inc,1-954-436-1085,9600,CM,XX,V34,VFC,V32t,V32b,H16,V42b
+
+
+Boss,211:211/0,
+,1,Further_Development,Pembroke_Pines_FL,Peter_Stewart,1-954-436-1085,9600,CM,XX,V34,VFC,V32t,V32b,H16,V42b
+,101,InterMail_Tech_Support_I,Pembroke_Pines_FL,Peter_Stewart,1-954-436-1085,9600,CM,XX,V34,VFC,V32t,V32b,H16,V42b
+,102,InterMail_Tech_Support_II,Pembroke_Pines_FL,Michele_Stewart,1-954-436-8207,9600,CM,XX,V34,VFC,V32b,V42b
+,103,InterMail_Tech_Support_III,San_Jose_Ca,Chris_Von_Motz,1-408-294-3065,9600,CM,XX,V34,V32b,V42b
+,104,Further_West!,San_Jose_Ca,Chris_Von_Motz,1-408-286-0165,9600,CM,XX,V34,V32b,V42b
+,999,Demo_Inc,Demo_City,John_Anderson,-Unpublished-,2400,MO
+;
+;
+; Net 212 segment, reserved for Scandinavian PC Systems AB
+; --------------------------------------------------------
+Host,212,InterMailNet_Sweden,V„xj”_Sweden,Scandinavian_PC_Systems_AB,46-470-14243,9600,CM,H14,V32b,V42b,XX
+Boss,211:212/0
+,101,InterMail_Help_Sweden,V„xj”_Sweden,Lars_Johansson,46-470-14243,9600,CM,H14,V32b,V42b,XX
+

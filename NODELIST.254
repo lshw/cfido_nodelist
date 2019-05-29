@@ -1,0 +1,333 @@
+;A Zone Nodelist for Friday, September 11, 1998 -- Day number 254 : 54910
+;A
+;S A listing of all the systems within CFidonet
+;S
+;A Copyright 1998, CFidonet, Vincent Qiu --- All rights reserved.
+;S
+;S Specific authority is hereby granted to Fidonet Coordinators to process
+;S this list in any manner necessary to its inclusion in the Fidonet Nodelist,
+;S provided only that it continues to be protected by a compilation copyright
+;S in all composite lists.
+;S
+;S
+;A
+;
+Zone,6,ASIA,CHINA,Vincent_Qiu,86-756-333-1930,9600,XA,CM,V32B,V42B,ZYX
+;
+Region,65,CFido_Net,ZhuHai,Vincent_Qiu,86-756-333-1930,9600,MO,V32B,V42B,V34
+;
+Host,650,Beijing_Net,Beijing,Liu_Zhao_Lin,86-10-6838-2962,9600,CM,H16,V32B,V42B,VFC,V34
+Hub,100,Paradise_BBS,Beijing,Shi_Dongsheng,86-10-6838-2962,9600,CM,H16,V32b,V42b,VFC,V34
+,2,Paradise_BBS,Beijing,River_Pan,86-10-6816-9730,9600,CM,H16,V32b,V42b,VFC,V34
+,12,Beijing_Westpoint_II,Beijing,Peixin_Mu,86-10-6523-3230,9600,CM,H16,V32b,V42b,VFC,V34
+,15,Beijing_C&C&T_BBS,Beijing,Zhao_Bin,86-10-6764-1506,9600,TWI,H16,V32b,V42b,VFC,V34
+,16,Ban_Ma_BBS,Neimenggu,Ban_Wei,86-471-594-3887,9600,CM,H16,V32b,V42b,VFC,V34
+,19,Apollon_BBS,Beijing,Sun_Libra,86-10-6524-5116,9600,TAH,H16,V32b,V42b,VFC,V34
+,24,Paradise_BBS,Beijing,Tian_Feng,86-10-6603-9434,9600,CM,H16,V32b,V42b,VFC,V34
+,25,Nature_BBS,Beijing,Zhou_Zhinong,86-10-6423-7461,9600,CM,V32b,V42b,VFC,V34
+,28,Beijing_Shuke_BBS,Beijing,Wei_Zhong,86-10-6224-4902,9600,CM,V32b,V42b,VFC,V34
+,29,East_Star_BBS,Luoyang,Dream_Liu,86-379-491-2400,9600,CM,V32b,V42b,V34,VFC
+Hub,30,Tian_Jin_Feihong_BBS,Tianjin,Li_Ze_Yuan,86-22-2781-1193,9600,CM,H16,V32B,V42B,VFC,V34
+,31,Tian_Jin_Tianlexing_BBS,Tianjin,Alan_Hsia,86-22-2731-1109,9600,Tsj,H16,V32B,V42B,VFC,V34
+,32,Hongzhi_BBS,Tianjin,Liu_Tao,86-22-2834-4042,9600,CM,XA,H16,V32B,V42B,V34
+Pvt,600,Watchtowner_BBS,Beijing,Liu_Zhao_Lin,-Unpublished-,9600,MO,V32B,V42B,VFC,V34
+;
+Host,654,Shanghai_Net,Shanghai,Gu_Qi_Kai,86-21-6469-8560,9600,CM,XA,V32B,V42B,V34
+Hub,2000,Shanghai_Hub1,Shanghai,Gu_Qi_Kai,86-21-6469-8560,9600,CM,XA,V32B,V42B
+,1001,Shake_River_BBS,Shanghai,Limin_Chen,86-21-5957-2197,9600,CM,XA,V32B,V42B
+,1002,PKPM_BBS,Shanghai,Sun_Da_Ming,86-21-6378-3216,9600,CM,XA,V32B,V42B
+,1003,Tweleve_Apostle_BBS,Shanghai,Qiu_Bin,86-21-5609-5554,9600,CM,XA,V32B,V42B
+,1005,Very_Valley_BBS,Shanghai,Gu_Qi_Kai,86-21-6469-8560,9600,CM,XA,V32B,V42B
+,1007,Will_University_BBS,Shanghai,Will_Wang,86-21-5795-6523,9600,CM,XA,V32B,V42B
+,1008,INFO_POINT_BBS,Shanghai,Wang_Quanhua,86-21-5253-0012,9600,CM,XA,V32B,V42B
+,1009,Seek_BBS,Shanghai,Fan_Xin_Hua,86-21-6427-2033,9600,CM,XA,V32B,V42B
+,1011,FlyDragon_BBS,Shanghai,Hu_Cheng_En,86-21-6218-0259,9600,CM,XA,V32B,V42B
+,1012,Blue_Bird_BBS,Shanghai,Liao_Xin_Chen,86-21-6261-9216,9600,CM,XA,V32B,V42B
+,1014,Friend_Bank_BBS,Shanghai,Shaofeng_Liang,86-21-6870-9160,9600,CM,XA,V32B,V42B
+,1016,Tiny_BBS,Shanghai,Moon_Star,86-21-5668-7856,9600,CM,XA,V32B,V42B
+Pvt,1020,Zhou_Liang's_PVT,Shanghai,Zhou_Liang,-Unpublished-,9600,CM,XA,V32B,V42B
+,1021,Moon_BBS,Shanghai,Xu_Hai_lin,86-21-62894059,9600,CM,XA,V32B,V42B
+Hub,3000,Shanghai_Hub2,Shanghai,Justin_Gu,86-21-6543-2033,9600,CM,XA,V32B,V42B
+,1004,Dreaming_BBS,Shanghai,Victor_Wang,86-21-5562-1101,9600,CM,XA,V32B,V42B
+,1006,Lucky_Sam,Shanghai,Justin_Gu,86-21-6875-2978,9600,CM,XA,V32B,V42B
+,1010,Single_Point_BBS,Shanghai,Le_Shi_Jun,86-21-5889-3174,9600,CM,XA,V32B,V42B
+,1013,Shanghai_Athena_BBS,Shanghai,Roland_Liu,86-21-5835-2673,9600,CM,XA,V32B,V42B
+,1015,Starry_Sky_BBS,Shanghai,Zhu_Shenfeng,86-21-6418-0810,9600,CM,XA,V32B,V42B
+,1017,Fool_Jetty_BBS,Shanghai,Jetty_Xu,86-21-52550154,9600,CM,XA,V32B,V42B
+,1019,Friend_Land_BBS,Shanghai,Fan_Yan,86-21-56731742,9600,CM,XA,V32B,V42B
+;
+Host,655,Guangdong_Net,Shenzhen,Lester_Lee,86-755-667-2764,9600,CM,V34,CSP,HST
+Hub,100,ShenZhen_Hub,Shenzhen,Lester_Lee,86-755-667-2764,9600,CM,V34,V42B
+,101,Ponysoft_BBS,Shenzhen,Pony_Ma,86-755-559-9961,9600,CM,XA,V32B,V32T,V42B
+,104,OrientExpress_BBS,Shenzhen,Daniel_Lee,86-755-686-2299,9600,CM,XA,V32B,VFC,V34
+,105,Colorful_Life,Shenzhen,Chen_Zhi_Jian,86-755-380-5152,9600,CM,XX,V32B,VFC,V34
+,108,Mail_Link_BBS,Shenzhen,Wang_Jian_Bing,86-755-639-0604,9600,CM,V32B,V34
+,109,Shareware_Bank_BBS,Shen_Zhen,Keith_Liu,86-755-229-3655,9600,V32B,V42B
+,110,The_Southern_Voice_BBS,Shenzhen,Lu_Wenjun,86-755-320-9843,9600,CM,V32B,V32T,V42B
+,150,Morning_Star,Shenzhen,Lester_Lee,86-755-667-2764,9600,CM,V34,CSP,HST
+Hub,200,Guangzhou-HUB,Guangzhou,Vadon_Lian,86-20-8663-6970,9600,MO,TTH,V32B,V34
+,201,New-moon_BBS,Guangzhou,Li_TianFeng,86-20-8384-7074,9600,CM,XA,V32B,V34
+,203,Hope_Angle_BBS,Guangzhou,Maurice_Zheng,86-20-8767-6919,9600,CM,XA,V32B,VFC,V34
+,205,DIGGER_RAS_&_BBS,Guangzhou,Alex_Benz_&_Weaken_Ju,86-20-8663-6976,9600,CM,XA,V32B,VFC,V34
+Pvt,206,Open_Sesame,Guangzhou,Bug_Fix,-Unpublished-,9600,MO,V32B,VFC,V34,NEC
+Pvt,208,Digger_Star,Guangzhou,Vadon_lian,-Unpublished-,9600,MO,V32B,VFC,V34
+,251,Electronic_Space,Guangzhou,Yun_Feng,202-116-78-254,9600,V32B,UIt's_Not_Phone_Number_But_InterNet_IP
+Hub,300,Guangdong-HUB,Zhuhai,Vincent_Qiu,86-756-333-1930,9600,CM,XA,V32B,VFC,V34
+,301,West_Line_BBS,Zhuhai,Tony_Low,86-756-333-1931,9600,CM,XA,V32B,VFC,V34
+,302,LATALA,Zhuhai,Art_Ming,86-756-226-0945,9600,CM,V32B,VFC,V34
+,303,Orient_Pearl,Zhuhai,Liu_Sui,86-756-221-1233,9600,CM,XA,V32B,VFC,V34
+,304,Boundless_as_the_Sea_and_Sky,Zhuhai,Viano_Wu,86-756-211-1114,9600,CM,XA,V32B,VFC,V34
+Hub,400,Shantou_Hub,Shantou,Huang_Yaohao,86-754-856-7753,9600,CM,XA,V32B,V34
+,401,PC_User_Group_BBS,Shantou,Huang_Yaohao,86-754-856-7753,9600,CM,XA,V32B,V34
+Pvt,402,ZTian_Software_Workshop,Shantou,Knight_Wu,-Unpublished-,9600,CM,XA,V32B,V42B,VFC,V34
+,403,Joyous_World_BBS,Shantou,Zhang_Jia,86-754-861-6569,9600,XA,TXH,V32B,V42B,VFC,V34,REC
+Hub,500,Foshan_Hub,Foshan,Jaf_Smoking,86-757-338-7144,9600,CM,XA,V42B,V32B,V34
+,501,Homeboy_Club_BBS,Foshan,Jaf_Smoking,86-757-338-7141,9600,CM,XA,V42B,V32B,V34
+,502,Blue_Crystal,Nanhai,Li_Jing,86-757-622-7696,9600,CM,XA,V42B,V32B,V34
+Hub,700,Zhongshan_Hub,Zhongshan,Weiguo_Yang,86-760-830-4896,9600,CM,XA,V42B,V32B,V34
+,701,Create_BBS,Zhongshan,Weiguo_Yang,86-760-830-4896,9600,CM,XA,V42B,V32B,V34
+Pvt,702,Yi-Heng_Software_Club,Zhongshan,Robin_Tan,-Unpublished-,9600,MO,V32B,VFC,V34
+Down,800,JiangMen_Hub,JiangMen,Richard_Huang,86-750-331-9934,9600,CM,XA,V42B,V32B,V34
+Down,808,Chance_Online_BBS,JiangMen,Richard_Huang,86-750-331-9934,9600,CM,XA,V42B,V32B,V34
+,901,Gold_Coast,Lufeng,Chen_Song,86-660-899-6662,9600,CM,XA,V42B,V32B,V34
+,1000,XinHui_Hub,Xin_Hui,Huang_Yongkai,86-750-647-7888,9600,CM,XA,V32B,V32T,V42B
+,1001,InterLink_BBS,Xin_Hui,Huang_Yongkai,86-750-647-7888,9600,CM,XA,V32B,V32T,V42B
+,1002,Sun_Link_BBS,Xin_Hui,Jing_Jun,86-750-666-2878,9600,CM,XA,V34,V32B,V42B
+;
+Host,660,ZheJiang_Net,Ningbo,Lou_Jian,86-574-6886524,9600,MO,XA,V32B,V42B,V34
+,1,Gloaming_Little_Station,Ningbo,Lou_Jian,86-574-6886524,9600,CM,XA,V34,V32B,V42B
+,2,WinZen_BBS,Zhenhai,Xu_Yongjiu,86-574-6277352,9600,XA,TXH,V32B,V42B,V34
+,8,Lib_Consultation_Station,Zhenhai,Hu_Jin_Min,86-574-6265735,9600,XA,V32B,V42B,V34
+,9,Little_Fox_BBS,Ningbo,Yang_Zhen,86-574-7119192,9600,CM,XA,V32B,V42B,V34,V34+
+Hub,100,CyberVoice,Yueqing,Largeo_Zheng,86-577-2537310,9600,XA,V32B,V34,V42B,TVG
+,101,Mario's_World,Hangzhou,Herry_Li,86-571-7960553,9600,XA,TOV,V32B,V42B,V34
+,102,West_Lake,Hangzhou,Liu_Xiao_Nan,86-571-5023616,9600,CM,XA,V32B,V42B,V34
+,103,SONG_Capital,Hangzhou,Ruan_Yang,86-571-8823823,9600,XA,TVH,V32B,V42B,V34
+,104,Orange_Wind_Flying_Leaves,Hangzhou,Van_Rick_Carter,86-571-7011348,9600,XA,TVg,V32B,V42B,V34
+,105,Happy_Space_BBS,Hangzhou,Zhang_Qi,86-571-6043296,9600,cm,xa,v32b,v42b
+,106,All_Star_BBS,Hangzhou,Liu_Qi,86-571-5113934,9600,cm,xa,v32b,v42b,V34,V34+
+,107,HZ_SKY,Hangzhou,Jack_Guo,86-571-6067931,9600,cm,xa,v32b,v42b,V34,V34+
+,301,SkyWings_BBS,Jianxing,Jame_Huang,86-573-2081209,9600,CM,XA,V32B,V42B,V34,V34+
+Pvt,302,Hope-Star_BBS,Jiashan,Wu_Jinming,-Unpublished-,9600,CM,XA,V32B,V42B,V34
+,303,Glodtax,Tongxiang,Jin_Run_Dong,86-573-8036416,9600,CM,XA,V32B,V42B,V34
+,501,Free_House,Shaoxing,Fu_Hui,86-575-5123269,9600,XA,TrG,V32B,V42B,V34
+,601,Cipher_One_Club,Jiaojiang,Kong_Minyun,86-576-8805550,9600,CM,XA,V32B,V42B,V34
+,666,Cipher_One,Jiaojiang,Kong_Minyun,86-576-8801223,9600,CM,XA,V32B,V42B,V34
+,603,MSWR_BBS,Linhai,Ba_Of,86-576-5318486,9600,CM,XA,V32B,V42B,V34
+,701,CyberVoice,Yueqing,Largeo_Zheng,86-577-2537310,9600,XA,V32B,V34,V42B,TVG
+Down,702,Huan_Qiu_BBS,Wenzhou,Liu_Ci_Ming,86-577-8253806,9600,CM,XA,V32B,V42B,V34
+,704,Fly_Dream_High_BBS,Wenzhou,Zhang_Yu,86-577-637-8267,9600,XA,V32B,V42B,V34
+,1001,Ver_Dure_BBS,Changshan,Xu_Bin,86-570-5022013,9600,XA,TVH,V32B,V42B,V34
+,9004,West_Mail_BBS,Gansu,Berid_Han,86-939-321-2074,9600,CM,XA,V32B,V42B
+;S
+;S    The following flags define special operating conditions:
+;S
+;S         Flag      Meaning
+;S
+;S         CM        Node accepts mail 24 hours a day
+;S         MO        Node does not accept human callers
+;S         LO        Node accepts calls Only from Listed
+;S                   FidoNet addresses
+;S
+;S      The following flags define modem protocols supported:
+;S
+;S           Flag      Meaning
+;S
+;S            V21       ITU-T V21      300 bps full duplex
+;S            V22       ITU-T V22     1200 bps full duplex
+;S            V29       ITU-T V29     9600 bps half duplex
+;S            V32       ITU-T V32     9600 bps full duplex
+;S            V32B      ITU-T V32bis 14400 bps full duplex
+;S            V33       ITU-T V33
+;S            V34       ITU-T V34    28800 bps full duplex
+;S            V42       LAP-M error correction w/fallback to MNP 1-4
+;S            V42B      LAP-M error correction w/fallback to MNP 1-5
+;S            MNP       Microcom Networking Protocol error correction
+;S            H96       Hayes V9600
+;S            HST       USR Courier HST
+;S            H14       USR Courier HST up to 14.4Kbps
+;S            H16       USR Courier HST up to 16.8Kbps
+;S            MAX       Microcom AX/96xx series
+;S            PEP       Packet Ensemble Protocol
+;S            CSP       Compucom Speedmodem
+;S            ZYX       Zyxel (implies V.32Bis & V.42Bis)
+;S
+;S                NOTE:  Many V22 modems also support Bell 212A.
+;S
+;S           If no modem flag is given,  Bell 212A is assumed for 1200 bps
+;S           systems,  CCITT V22bis is assumed for 2400 bps systems.
+;S
+;S
+;S    A separate modem capability flag should not be used when it can be
+;S    determined by the modem flag. For instance, a modem flag of HST
+;S    implies MNP. V32b implies V32 and V42b implies V42. MNP,HST and
+;S    H14,MNP and H16,MNP and V32,V32b and V42,V42b flag pairs are
+;S    unnecessary. H14 implies HST, H16 implies H14 and V42.Bis and Z19
+;S    implies ZYX as well as V.42Bis.
+;S
+;S      The following flags define the type(s) of compression of mail
+;S      packets supported.
+;S
+;S           Flag      Meaning
+;S
+;S           MN        No compression supported
+;S
+;S                     NOTE:  The only compression method standard in
+;S                     FidoNet is archiving,  using the standard SEA ARC
+;S                     format,  with archive names defined by the
+;S                     specification for ARCMail 0.6.  The absence of the
+;S                     MN flag indicates that ARCMail 0.6 compression is
+;S                     supported by this node.
+;S
+;S  The following flags indicate the types of file/update requests
+;S  supported.
+;S
+;S      The following flags indicate the types of file/update requests
+;S      supported.
+;S
+;S  |----------------------------------------------------------|
+;S  |      |           Bark          |          WaZOO          |
+;S  |      |-------------------------|-------------------------|
+;S  |      |    File    |   Update   |    File    |   Update   |
+;S  | Flag |  Requests  |  Requests  |  Requests  |  Requests  |
+;S  |------|------------|------------|------------|------------|
+;S  | XA   |     Yes    |     Yes    |     Yes    |     Yes    |
+;S  | XB   |     Yes    |     Yes    |     Yes    |     No     |
+;S  | XC   |     Yes    |     No     |     Yes    |     Yes    |
+;S  | XP   |     Yes    |     Yes    |     No     |     No     |
+;S  | XR   |     Yes    |     No     |     Yes    |     No     |
+;S  | XW   |     No     |     No     |     Yes    |     No     |
+;S  | XX   |     No     |     No     |     Yes    |     Yes    |
+;S  |----------------------------------------------------------|
+;S
+;S  The following software is qualified to use the specified
+;S  file request flag:
+;S
+;S  |---------------------------------------|
+;S  |  File Req Flag   Software Package     |
+;S  |---------------------------------------|
+;S  |  XA              Frontdoor <1.99b     |
+;S  |                  Frontdoor  2.02+     |
+;S  |                  Dutchie 2.90c        |
+;S  |                  Binkleyterm >2.1     |
+;S  |                  D'Bridge <1.3        |
+;S  |                  TIMS                 |
+;S  |---------------------------------------|
+;S  |  XB              Binkleyterm 2.0      |
+;S  |                  Dutchie 2.90b        |
+;S  |---------------------------------------|
+;S  |  XC              Opus >1.03           |
+;S  |---------------------------------------|
+;S  |  XP              Seadog               |
+;S  |---------------------------------------|
+;S  |  XR              Opus 1.03            |
+;S  |---------------------------------------|
+;S  |  XW              Fido >12M            |
+;S  |                  Tabby                |
+;S  |---------------------------------------|
+;S  |  XX              D'Bridge 1.30        |
+;S  |                  Frontdoor 1.99b      |
+;S  |---------------------------------------|
+;S  |  None            QMM                  |
+;S  |---------------------------------------|
+;S
+;S      The following flag defines gateways to other domains (networks).
+;S
+;S           Flag      Meaning
+;S
+;S           Gx..x     Gateway to domain 'x..x',  where 'x..x` is a string
+;S                     of alphanumeric characters.  Valid values for 'x..x'
+;S                     are assigned by the FidoNet International
+;S                     Coordinator.  This flag is not authorized for use by
+;S                     any node unless specifically authorized by the IC or
+;S                     FidoNet Inter-Network Coordinator. Registered
+;S                     domain gateways include:
+;S                     uucp     to be used only by nodes in a list of
+;S                              authorized fidonet.org sites available at
+;S                              1:1/31.
+;S
+;S
+;S      The following flags define the dedicated mail periods supported.
+;S      They have the form "#nn" or !nn where nn is the UTC hour the mail
+;S      period begins,  # indicates Bell 212A compatibility,  and !
+;S      indicates incompatibility with Bell 212A.
+;S
+;S           Flag      Meaning
+;S
+;S           #01       Zone 5 mail hour (01:00 - 02:00 UTC)
+;S           #02       Zone 2 mail hour (02:30 - 03:30 UTC)
+;S           #08       Zone 4 mail hour (08:00 - 09:00 UTC)
+;S           #09       Zone 1 mail hour (09:00 - 10:00 UTC)
+;S           #18       Zone 3 mail hour (18:00 - 19:00 UTC)
+;S           #20       Zone 6 mail hour (20:00 - 21:00 UTC)
+;S
+;S                     NOTE:  When applicable,  the mail period flags may
+;S                     be strung together with no intervening commas,  eg.
+;S                     "#02#09".  Only mail hours other than that standard
+;S                     within a node's zone should be given.  Since
+;S                     observance of mail hour within one's zone is
+;S                     mandatory,  it should not be indicated.
+;S
+;S
+;S  There is also a user flag which defines user-specific values. If
+;S  present, this flag MUST be the last flag present in a nodelist entry.
+;S  For further technical details about this flag, consult FidoNet
+;S  Technical Standard document FTS-0005 which is available for file
+;S  request under that magic name from 6:6/0 and 6:720/303 outside of the
+;S  Zone Mail Hour (+/- 2 hours).
+;S
+;S Zone 6 authorised 'user' flags:-
+;S
+;S Modem capability flags
+;S
+;S            V32T      V.32 Terbo mode
+;S            VFC       Rockwell's V.Fast Class
+;S            Z19       ZyXEL up to 19200 BPS
+;S
+;S NetMail Coordination when (NC not= Host)
+;S
+;S            NC        Network Coordinator.  This flag is ONLY to be used by
+;S                      the Network Coordinator of a net which has split the
+;S                      duties of NC and Host and the NC does NOT occupy the
+;S                      Net/0 position in the nodelist.
+;S
+;S EchoMail Coordination:
+;S
+;S            ZEC       Zone EchoMail Coordinator.  Not more than one entry
+;S                      in the zone 6 segment may carry this flag and that must
+;S                      be the current Zone EchoMail Coordinator.
+;S
+;S            REC       Regional EchoMail Coordinator.  Not more than one
+;S                      entry in any region may carry this flag and that must
+;S                      be the current Regional EchoMail Coordinator.
+;S
+;S            NEC       Network EchoMail coordinator.  Not more than one entry
+;S                      in any net may carry this flag and that must be the
+;S                      current Network EchoMail Coordinator of that Net.  This
+;S                      flag will be authorised by the relevant Regional EchoMail
+;S                      Coordinator.
+;S
+;S                      Note:  Redundant AKAs used to indicate EchoMail
+;S                             Coordination functions are no longer permitted.
+;S
+;S System open hours:
+;S
+;S            Txx       In accordance with the recommendations in FSC-0062
+;S                      and the reference table reproduced below:
+;S
+;S  +------+----+  +------+----+  +------+----+  +------+----+  +------+----+
+;S  |Letter|Time|  |Letter|Time|  |Letter|Time|  |Letter|Time|  |Letter|Time|
+;S  +------+----+  +------+----+  +------+----+  +------+----+  +------+----+
+;S  |   A  |0000|  |   F  |0500|  |   K  |1000|  |   P  |1500|  |   U  |2000|
+;S  |   a  |0030|  |   f  |0530|  |   k  |1030|  |   p  |1530|  |   u  |2030|
+;S  |   B  |0100|  |   G  |0600|  |   L  |1100|  |   Q  |1600|  |   V  |2100|
+;S  |   b  |0130|  |   g  |0630|  |   l  |1130|  |   q  |1630|  |   v  |2130|
+;S  |   C  |0200|  |   H  |0700|  |   M  |1200|  |   R  |1700|  |   W  |2200|
+;S  |   c  |0230|  |   h  |0730|  |   m  |1230|  |   r  |1730|  |   w  |2230|
+;S  |   D  |0300|  |   I  |0800|  |   N  |1300|  |   S  |1800|  |   X  |2300|
+;S  |   d  |0330|  |   i  |0830|  |   n  |1330|  |   s  |1830|  |   x  |2330|
+;S  |   E  |0400|  |   J  |0900|  |   O  |1400|  |   T  |1900|  |      |    |
+;S  |   e  |0430|  |   j  |0930|  |   o  |1430|  |   t  |1930|  |      |    |
+;S  +------+----+  +------+----+  +------+----+  +------+----+  +------+----+
+;S
+
